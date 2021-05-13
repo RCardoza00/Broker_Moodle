@@ -20,8 +20,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import servicios.MoodleConsumer;
-import servicios.SistemaEscolarConsumer;
+import Servicios.MoodleConsumer;
+import Servicios.SistemaEscolarConsumer;
 
 /**
  *
